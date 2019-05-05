@@ -51,22 +51,22 @@ void DrawScene(int b[5][6], int p_x, int p_y)
 			switch (b[i][j])
 			{
 			case 0:
-				cout << "¡·";
+				cout << "â—†";
 				break;
 			case 1:
-				cout << "¡µ";
+				cout << "â—‡";
 				break;
 			case 2:
-				cout << "¡¸";
+				cout << "â– ";
 				break;
 			case 3:
-				cout << "¡º";
+				cout << "â–¡";
 				break;
 			case 4:
-				cout << "¡³";
+				cout << "â—‰";
 				break;
 			case 5:
-				cout << "¡½";
+				cout << "â—Ž";
 				break;
 			case 6:
 				cout << "G ";
