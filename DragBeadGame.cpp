@@ -63,10 +63,10 @@ void DrawScene(int b[5][6], int p_x, int p_y)
 				cout << "□";
 				break;
 			case 4:
-				cout << "◉";
+				cout << "★";
 				break;
 			case 5:
-				cout << "◎";
+				cout << "☆";
 				break;
 			case 6:
 				cout << "G ";
