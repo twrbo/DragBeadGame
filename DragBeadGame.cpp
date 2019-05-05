@@ -1,4 +1,4 @@
-#include<iostream>
+﻿#include<iostream>
 #include<iomanip>
 #include<windows.h>
 #include<time.h>
@@ -30,7 +30,6 @@ int main(void)
 		HandleUserInput(choice, bead, player_x, player_y, last_player_x, last_player_y);
 		system("CLS");
 	}
-	cin.get();
 }
 void Initialize(int b[5][6])
 {
